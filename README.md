@@ -6,6 +6,8 @@
 * pkg update && pkg upgrade
 * pkg install python git
 * pip install requests
-* git clone https://github.com/riyanxploite/smile
-* cd fc
-* python fc.py
+* git clone https://github.com/riyanxploite/crack
+* ls
+* cd crackers
+* ls
+* python crackers.py
