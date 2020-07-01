@@ -8,6 +8,6 @@
 * pip install requests
 * git clone https://github.com/riyanxploite/crack
 * ls
-* cd crack
+* cd fb
 * ls
 * python crackers.py
