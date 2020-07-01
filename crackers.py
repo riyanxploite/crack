@@ -31,10 +31,10 @@ def random_numbers():
   data = []
   os.system('cls' if os.name == 'nt' else 'clear')
   print('''
-  [ FACEBOOK CRACKER RANDOM NUMBERS ]
+  [ FACEBOOK CRACK RIYAN ]
 
   Isi nomor awalnya ya
-  Harus 5 digit gak boleh kurang dan gak boleh lebih.
+  Harus 5 digit 
   Contoh: 62877
   ''')
   kode=str(input('  Masukan nomor awal: '))
@@ -56,7 +56,7 @@ def random_email():
   data = []
   os.system('cls' if os.name == 'nt' else 'clear')
   print('''
-  [ FACEBOOK CRACKER RANDOM EMAIL ]
+  [ FACEBOOK CRACK RANDOM EMAIL RIYAN ]
 
   Isi nama penggunanya ya kaka
   Contoh: riyan

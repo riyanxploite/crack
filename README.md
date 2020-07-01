@@ -1,4 +1,4 @@
-# Facebook account craker without login.
+# Facebook Crack Tanpa login.
 
 ![img](ss.png)
 
@@ -8,6 +8,6 @@
 * pip install requests
 * git clone https://github.com/riyanxploite/crack
 * ls
-* cd crackers
+* cd crack
 * ls
 * python crackers.py
